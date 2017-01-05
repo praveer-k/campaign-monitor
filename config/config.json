@@ -1,0 +1,10 @@
+{ "twitter" : { "access_key"      : "XXXXXXXXXXXXXXXXXXXXX",
+                "access_secret"   : "XXXXXXXXXXXXXXXXXXXXX"     ,
+      	        "consumer_secret" : "XXXXXXXXXXXXXXXXXXXXX",
+                "consumer_key"    : "XXXXXXXXXXXXXXXXXXXXX"
+  },
+  "googleMaps" : { "key"      : "XXXXXXXXXXXXXXXXXXXXX",
+		           "api_name" : "browserKey",
+		           "api_type" : "browser"
+  }
+}

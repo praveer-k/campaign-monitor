@@ -1,0 +1,37 @@
+{
+  "name": "vote classifier",
+  "version": "1.0.0",
+  "scripts": {
+    "downloader"  : "python3 downloader.py",
+    "classifier"  : "python3 classifier.py",
+    "streamer"    : "python3 streamer.py",
+    "trainer"     : "python3 trainer.py",
+    "server"      : "python3 server.py"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@pip3/nltk"       : "3.0.0",
+    "@pip3/numpy"      : "2.0.0",
+    "@pip3/scipy"      : "2.0.0",
+    "@pip3/sklearn"    : "0.2.0",
+    "@pip3/statsmodels": "2.0.0",
+    "@pip3/pandas"     : "2.0.0",
+    
+    "@pip3/openpyxl"   : "2.0.0",
+
+    "@pip3/tweepy"     : "2.0.0",
+
+    "@pip3/pymongo"    : "2.0.0",
+    "@pip3/progress"   : "2.0.0",
+    "@pip3/tabulate"   : "2.0.0",
+    "@pip3/pycountry"  : "2.0.0",
+    "@pip3/yaml"       : "2.0.0",
+    
+    "@pip3/bottlepy"   : "2.0.0",
+
+    "@pip3/matplotlib" : "2.0.0",
+
+    "@app/bootstrap"   : "3.3.6",
+    "@app/angularjs"   : "3.3.6"
+  }
+}
