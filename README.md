@@ -1,4 +1,4 @@
-# campaign-monitor
+# Campaign Monitor
   Logistic regression has remained one of the best models that describes the randomness of the nature with great accuracy. Though decisions taken by public depends on a wide variety of variables (discriptors), it is possible to know whether an inference that we have generated is true (False positives and True Negatives). Therefore an automated script is possible that can precisely tell whether the data collected can really predict with accuracy or not.
 
   The application therefore demonstrate how any a model can defined using data analysis can be automated to make similar experiments reproducible. 
