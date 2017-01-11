@@ -3,7 +3,7 @@
 
   The application therefore demonstrate how any model - that is defined after data analysis, can be standardized and automated to make similar experiments reproducible. 
   
-  There are 4 inputs needed by the system :
+  There are 5 inputs needed by the system :
   1. Country
   2. Keywords(1) that describe the first competing brand/party/entity.
   3. Keywords(2) that describe the second competing brand/party/entity.
